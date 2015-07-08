@@ -1,7 +1,7 @@
 Sample Laravel & Bootstrap Application
 ======================================
 
-A sample web application written in Laravel, Bootstrap and jQuery.
+A sample web application written in Laravel 5, Bootstrap and jQuery.
 
 ## Getting Started
 
@@ -16,9 +16,9 @@ cd sample_laravel_bootstrap
 vagrant up
 ```
 
-**Please wait until Vagrant downloads the required box and configures the VM.**
+**Please wait until Vagrant downloads the required box and finishes configuring the VM.**
 
-- Open your favorite web browser and visit http://192.168.33.10/
+- Open your favorite web browser and visit http://192.168.33.10/ to test the app.
 
 ## Running PHPUnit Tests
 
