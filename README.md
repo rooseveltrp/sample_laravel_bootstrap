@@ -16,7 +16,7 @@ cd sample_laravel_bootstrap
 vagrant up
 ```
 
-* Please wait until Vagrant downloads the required box and configures the VM.
+**Please wait until Vagrant downloads the required box and configures the VM.**
 
 - Open your favorite web browser and visit http://192.168.33.10/
 
