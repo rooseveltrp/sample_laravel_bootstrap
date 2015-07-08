@@ -5,9 +5,9 @@ A sample web application written in Laravel, Bootstrap and jQuery.
 
 ## Getting Started
 
-1. Download and install VirtualBox from here: https://www.virtualbox.org/wiki/Downloads
-2. Download and install Vagrant from here: https://www.vagrantup.com/
-3. Open the terminal and execute the following commands:
+- Download and install VirtualBox from here: https://www.virtualbox.org/wiki/Downloads
+- Download and install Vagrant from here: https://www.vagrantup.com/downloads.html
+- Open the terminal and execute the following commands:
 
 ```
 cd ~/
@@ -16,7 +16,9 @@ cd sample_laravel_bootstrap
 vagrant up
 ```
 
-4. Open your favorite your web browser and visit http://192.168.33.10/
+* Please wait until Vagrant downloads the required box and configures the VM.
+
+- Open your favorite web browser and visit http://192.168.33.10/
 
 ## Running PHPUnit Tests
 
